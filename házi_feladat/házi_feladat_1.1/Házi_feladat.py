@@ -6,3 +6,5 @@ if válasz == "igen":
 elif válasz == "nem":
     print("Sajnálom, remélem holnap jobb napja lesz!")
 
+else:
+    print("Sajnos nem értem a válaszodat.")
